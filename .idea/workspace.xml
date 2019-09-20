@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c427f89-ea8f-4aa1-97d6-987c43a3af73" name="Default Changelist" comment="" />
+    <list default="true" id="7c427f89-ea8f-4aa1-97d6-987c43a3af73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simplehtmldom_1_5/memberCrawler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curl.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +18,24 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
   <component name="ProjectId" id="1QJIqePWrfmWMvENLKFDXurDxnR" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/simplehtmldom_1_5" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,20 +49,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.curl.php">
+  <component name="RunManager" selected="PHP Script.memberCrawler.php">
     <configuration name="localhost" type="JavascriptDebugType" uri="http://localhost:8888">
       <method v="2" />
     </configuration>
-    <configuration name="curl.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/curl.php">
+    <configuration name="memberCrawler.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/simplehtmldom_1_5/memberCrawler.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="mobileCrawler.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/mobileCrawler.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="webCrawler.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/webCrawler.php">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.localhost" />
-      <item itemvalue="PHP Script.curl.php" />
+      <item itemvalue="PHP Script.mobileCrawler.php" />
+      <item itemvalue="PHP Script.webCrawler.php" />
+      <item itemvalue="PHP Script.memberCrawler.php" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="PHP Script.curl.php" />
+        <item itemvalue="PHP Script.memberCrawler.php" />
+        <item itemvalue="PHP Script.webCrawler.php" />
+        <item itemvalue="PHP Script.mobileCrawler.php" />
       </list>
     </recent_temporary>
   </component>
@@ -64,10 +91,31 @@
       <workItem from="1567644469391" duration="5489000" />
       <workItem from="1567750820443" duration="1714000" />
       <workItem from="1568015211659" duration="4421000" />
+      <workItem from="1568081094999" duration="3967000" />
+      <workItem from="1568095175882" duration="1235000" />
+      <workItem from="1568604672016" duration="599000" />
+      <workItem from="1568876178463" duration="5225000" />
+      <workItem from="1568906751329" duration="3257000" />
+      <workItem from="1568910059731" duration="15000" />
+      <workItem from="1568945984482" duration="1102000" />
+      <workItem from="1568962362959" duration="470000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
